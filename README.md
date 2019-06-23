@@ -1,0 +1,2 @@
+# pacitfy
+pacify the game 
