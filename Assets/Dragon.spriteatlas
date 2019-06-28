@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dragon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 128
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 18faef4fe56a98847a3770453792aab7, type: 3}
+    - {fileID: 2800000, guid: 21e089d6680d6ed44a9428fdd1379df9, type: 3}
+    - {fileID: 2800000, guid: 7e1280776d356a84c8be063cc044d9ca, type: 3}
+    - {fileID: 2800000, guid: b557ad2410bb18748af6c874e25736b9, type: 3}
+    - {fileID: 2800000, guid: 04743c38917f1c54f84876883e41402f, type: 3}
+    totalSpriteSurfaceArea: 1280
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b557ad2410bb18748af6c874e25736b9, type: 3}
+  - {fileID: 21300000, guid: 21e089d6680d6ed44a9428fdd1379df9, type: 3}
+  - {fileID: 21300000, guid: 7e1280776d356a84c8be063cc044d9ca, type: 3}
+  - {fileID: 21300000, guid: 04743c38917f1c54f84876883e41402f, type: 3}
+  - {fileID: 21300000, guid: 18faef4fe56a98847a3770453792aab7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dragonhead
+  - dragoncurve
+  - dragoncurve_1
+  - dragontail
+  - dragonbody
+  m_Tag: Dragon
+  m_IsVariant: 0
