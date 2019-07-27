@@ -1,3 +1,5 @@
+![Image of Game](https://github.com/loserboi23/Pacify/blob/master/pacfiyitchio.png)
+
 ## Pacify
 Video Game that I made
 
